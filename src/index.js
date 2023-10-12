@@ -16,7 +16,7 @@ import * as serviceWorkerRegistration from "./serviceWorkerRegistration";
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter basename="/reviewzon-frontend">
+    <BrowserRouter>
       <App />
     </BrowserRouter>
   </React.StrictMode>,

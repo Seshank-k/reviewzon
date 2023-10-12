@@ -64,6 +64,5 @@
   },
   "devDependencies": {
     "@types/jquery": "^3.5.8"
-  },
-  "homepage": "https://sankalpmukim.github.io/reviewzon-frontend"
+  }
 }
